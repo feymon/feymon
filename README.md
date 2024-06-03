@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feymon
 - 👀 I’m interested in Tech 
-- 🌱 I’m currently learning UI/UX Design 
-- 💞️ I’m looking to collaborate on design projects
+- 🌱 I’m currently learning DevOps 
+- 💞️ I’m looking for mentorship and internship
 - 📫 How to reach me feyisayoamoo@gmail.com 
 
 <!---
